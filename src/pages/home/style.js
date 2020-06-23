@@ -6,6 +6,8 @@ export const wrapperStyle = css`
     overflow-x: auto;
     white-space: nowrap;
     width: 100%;
+    padding: 16px 32px;
+    display: flex;
 `
 
 
